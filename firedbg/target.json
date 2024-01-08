@@ -1,0 +1,11 @@
+{
+  "binaries": [
+    {
+      "name": "client",
+      "src_path": "/home/sanchez/rust/client/src/main.rs"
+    }
+  ],
+  "examples": [],
+  "integration_tests": [],
+  "unit_tests": []
+}
